@@ -1,0 +1,1 @@
+{"Subject":"Asunto del Correo","From":"Contacto<contacto@dominio.com>","Template":{"Type":"text/html","Value":"<div>Hola mundo</div>"},"ReplyTo":"soporte@dominio.com","Recipients":[{"To":"Juan Andrade<cliete1@dominio.com>"},{"To":"Diana<cliete2@dominio.com"}]}

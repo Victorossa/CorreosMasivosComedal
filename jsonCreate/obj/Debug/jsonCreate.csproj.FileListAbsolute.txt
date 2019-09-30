@@ -1,0 +1,9 @@
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\bin\Debug\jsonCreate.exe.config
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\bin\Debug\jsonCreate.exe
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\bin\Debug\jsonCreate.pdb
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\obj\Debug\jsonCreate.csprojAssemblyReference.cache
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\obj\Debug\jsonCreate.csproj.CopyComplete
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\obj\Debug\jsonCreate.exe
+C:\Users\programador1\source\repos\CorreosMasivos\jsonCreate\obj\Debug\jsonCreate.pdb

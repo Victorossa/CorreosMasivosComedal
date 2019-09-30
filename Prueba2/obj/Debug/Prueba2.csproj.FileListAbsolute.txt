@@ -1,0 +1,6 @@
+C:\Users\programador1\source\repos\CorreosMasivos\Prueba2\bin\Debug\Prueba2.exe.config
+C:\Users\programador1\source\repos\CorreosMasivos\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\programador1\source\repos\CorreosMasivos\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\programador1\source\repos\CorreosMasivos\Prueba2\obj\Debug\Prueba2.csprojAssemblyReference.cache
+C:\Users\programador1\source\repos\CorreosMasivos\Prueba2\obj\Debug\Prueba2.exe
+C:\Users\programador1\source\repos\CorreosMasivos\Prueba2\obj\Debug\Prueba2.pdb

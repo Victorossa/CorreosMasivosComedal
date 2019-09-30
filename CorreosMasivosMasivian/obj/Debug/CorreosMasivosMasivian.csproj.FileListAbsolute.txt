@@ -1,0 +1,9 @@
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\obj\Debug\CorreosMasivosMasivian.csprojAssemblyReference.cache
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\bin\Debug\CorreosMasivosMasivian.exe.config
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\bin\Debug\CorreosMasivosMasivian.exe
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\bin\Debug\CorreosMasivosMasivian.pdb
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\bin\Debug\Newtonsoft.Json.dll
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\bin\Debug\Newtonsoft.Json.xml
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\obj\Debug\CorreosMasivosMasivian.csproj.CopyComplete
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\obj\Debug\CorreosMasivosMasivian.exe
+C:\Users\programador1\source\repos\CorreosMasivos\CorreosMasivosMasivian\obj\Debug\CorreosMasivosMasivian.pdb

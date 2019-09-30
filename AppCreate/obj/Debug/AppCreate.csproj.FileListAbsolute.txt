@@ -1,0 +1,9 @@
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\bin\Debug\AppCreate.exe.config
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\bin\Debug\AppCreate.exe
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\bin\Debug\AppCreate.pdb
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\obj\Debug\AppCreate.csprojAssemblyReference.cache
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\obj\Debug\AppCreate.exe
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\obj\Debug\AppCreate.pdb
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\programador1\source\repos\CorreosMasivos\AppCreate\obj\Debug\AppCreate.csproj.CopyComplete
